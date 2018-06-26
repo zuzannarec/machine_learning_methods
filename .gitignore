@@ -107,4 +107,7 @@ venv.bak/git
 .mypy_cache/
 
 # zip
-.zip
+*.zip
+
+# idea
+.idea
